@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Citi Bike Trip Data Pipeline
 
 This is my submission for [Data Engineering Zoomcamp 2024](https://github.com/DataTalksClub/data-engineering-zoomcamp) final project.
@@ -54,3 +55,6 @@ View the Looker Studio dashboard [here](https://lookerstudio.google.com/reportin
 ## Reproduce Project
 
 To reproduce the project and test the code yourself, follow these [instructions](docs/reproduce.md).
+=======
+# Citi-Bike-Trip
+>>>>>>> c1746865e59daccb37265e70c69998bd367b2758
