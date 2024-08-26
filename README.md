@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Citi Bike Data Pipeline
 
 This is my submission for Citi Bike Trip Data Analysis
