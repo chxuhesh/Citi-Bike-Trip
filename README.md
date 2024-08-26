@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-# Citi Bike Trip Data Pipeline
+# Citi Bike Data Pipeline
 
-This is my submission for [Data Engineering Zoomcamp 2024](https://github.com/DataTalksClub/data-engineering-zoomcamp) final project.
+This is my submission for Citi Bike Trip Data Analysis
 
 ## Problem Description
 
-Citi Bike is a public bicycle sharing system serving  New York City. In this project I have created a pipeline for Citi Bike trip data between `Jan 2022` and `Dec 2023` to answer the following questions:
+Citi Bike is a public bicycle sharing system serving  New York City. In this project I have created a pipeline for Citi Bike trip data between `Jan 2022` and `July 2024` to answer the following questions:
 
 - What are the top destinations for Citi Bikers?
 - What days of the week are most rides taken on?
@@ -48,7 +48,7 @@ The data includes the following fields:
 
 ## Data Visualization
 
-View the Looker Studio dashboard [here](https://lookerstudio.google.com/reporting/57b3e010-5c75-4286-81b0-220995285811).
+View the Looker Studio dashboard [here](https://lookerstudio.google.com/reporting/5a4def5e-634b-4e37-8fda-ef11a5c24558).
 
 ![](docs/res/looker-dashboard.png)
 
@@ -56,5 +56,3 @@ View the Looker Studio dashboard [here](https://lookerstudio.google.com/reportin
 
 To reproduce the project and test the code yourself, follow these [instructions](docs/reproduce.md).
 =======
-# Citi-Bike-Trip
->>>>>>> c1746865e59daccb37265e70c69998bd367b2758

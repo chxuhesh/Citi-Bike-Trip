@@ -339,13 +339,13 @@ Both should return `1887984`
 
 Navigate to [Google Looker Studio](https://lookerstudio.google.com/). 
 
-Click on **Create** > **Data source** > **BigQuery** > authorize BigQuery > select the Project (`Citi Bike Trip Data Pipeline`) > Dataset (`dbt_rmukherjee`) > Table (`fact_citibike_trips`) > **CONNECT**.
+Click on **Create** > **Data source** > **BigQuery** > authorize BigQuery > select the Project (`Citi Bike Data Pipeline`) > Dataset (`dbt_rmukherjee`) > Table (`fact_citibike_trips`) > **CONNECT**.
 
 ![](res/looker-studio-bigquery.png)
 
 Change the default aggregation of categorical fields from `Sum` to `None`. Then, click on **CREATE REPORT** > **ADD TO REPORT**.
 
-Rename the report as **Citi Bike Trip Data Analysis 2022-2023**.
+Rename the report as **Citi Bike Data Analysis 2022-2024**.
 
 ### Total Trips Recorded
 
